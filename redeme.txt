@@ -1,0 +1,3 @@
+pip pyinstaller
+
+pyinstaller ss_local.spec
