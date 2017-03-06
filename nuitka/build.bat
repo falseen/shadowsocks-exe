@@ -1,0 +1,1 @@
+nuitka --python-flag=no_site --nofreeze-stdlib --standalone --recurse-all shadowsocks\local.py
