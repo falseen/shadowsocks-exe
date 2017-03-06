@@ -1,5 +1,5 @@
-# sspy-exe
+# shadowsocks-exe
 
-pip pyinstaller
+pip install pyinstaller
 
-pyinstaller ss_local.spec
+pip -u install nuitka
